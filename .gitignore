@@ -7,6 +7,8 @@
 
 # dependencies
 /node_modules
+#backup-content
+/recipe-book-backup-without-services
 
 # IDEs and editors
 /.idea
